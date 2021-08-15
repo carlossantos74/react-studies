@@ -1,3 +1,6 @@
 [submodule "github-explorer"]
 	path = github-explorer
 	url = https://github.com/carlossantos74/github-explorer
+[submodule "rocketseat-dt-money"]
+	path = rocketseat-dt-money
+	url = https://github.com/carlossantos74/rocketseat-dt-money
