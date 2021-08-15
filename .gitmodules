@@ -1,0 +1,3 @@
+[submodule "github-explorer"]
+	path = github-explorer
+	url = https://github.com/carlossantos74/github-explorer
