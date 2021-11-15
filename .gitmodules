@@ -4,3 +4,6 @@
 [submodule "rocketseat-dt-money"]
 	path = rocketseat-dt-money
 	url = https://github.com/carlossantos74/rocketseat-dt-money
+[submodule "next-boilerplate"]
+		path = next-boilerplate
+		url = https://github.com/carlossantos74/next-boilerplate
